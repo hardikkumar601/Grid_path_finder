@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "The Project Aim is to Generate a valid Path for a Given start and End Point in a Grid(of size m X n).",
+  "main": "astar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
